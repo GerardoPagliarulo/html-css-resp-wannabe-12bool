@@ -59,3 +59,13 @@ img{
     max-width: 100%;
   }
 }
+
+@media all and (min-width: 769px) and (max-width: 1199px) {
+  .row {
+    max-width: 100%;
+  }
+
+  .row img {
+    max-width: 100%;
+  }
+}
